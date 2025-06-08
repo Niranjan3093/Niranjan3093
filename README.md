@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niranjan3093" alt="niranjan3093" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/re_zan" target="blank"><img src="https://img.shields.io/twitter/follow/re_zan?logo=twitter&style=for-the-badge" alt="re_zan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/re_zan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="re_zan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/niranjan deuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan deuja" height="30" width="40" /></a>
 <a href="https://instagram.com/rezandeuja93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rezandeuja93" height="30" width="40" /></a>
 </p>
